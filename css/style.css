@@ -32,43 +32,21 @@
     }
 
     .panel1 {
-        background-image: url(../img/bmw/logo1.jpg)
+        background-image: url(../img/porsche/logo4.jpg);
     }
-    .panel1:hover{
+
+    .panel1:hover {
         cursor: pointer;
     }
 
     .panel2 {
-        background-image: url(../img/mercedes/logo2.jpg);
+        background-image: url(../img/landrover/logo5.jpg);
     }
 
     .panel2:hover {
         cursor: pointer;
     }
-
-    .panel3 {
-        background-image: url(../img/audi/logo3.jpg);
-    }
-
-    .panel3:hover{
-        cursor: pointer;
-    }
-
-    .panel4 {
-        background-image: url(../img/porsche/logo4.jpg);
-    }
-
-    .panel3:hover {
-        cursor: pointer;
-    }
-
-    .panel5 {
-        background-image: url(../img/landrover/logo5.jpg);
-    }
-
-    .panel3:hover {
-        cursor: pointer;
-    }
+ 
 
     /* Flex Items */
     .panel>* {
